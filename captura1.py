@@ -1,0 +1,6 @@
+n=input("Digite Nombre:")
+a=input("Digite Apellido:")
+e=input("Digite la edad:")
+print("Su nombre es:" +n)
+print("Su Apellido es:" +a)
+print("Su Edad es:" +e) 
