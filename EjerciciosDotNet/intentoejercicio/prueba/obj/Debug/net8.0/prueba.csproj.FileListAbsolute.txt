@@ -1,0 +1,14 @@
+C:\intentoejercicio\prueba\bin\Debug\net8.0\prueba.exe
+C:\intentoejercicio\prueba\bin\Debug\net8.0\prueba.deps.json
+C:\intentoejercicio\prueba\bin\Debug\net8.0\prueba.runtimeconfig.json
+C:\intentoejercicio\prueba\bin\Debug\net8.0\prueba.dll
+C:\intentoejercicio\prueba\bin\Debug\net8.0\prueba.pdb
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.AssemblyInfoInputs.cache
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.AssemblyInfo.cs
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.csproj.CoreCompileInputs.cache
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.dll
+C:\intentoejercicio\prueba\obj\Debug\net8.0\refint\prueba.dll
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.pdb
+C:\intentoejercicio\prueba\obj\Debug\net8.0\prueba.genruntimeconfig.cache
+C:\intentoejercicio\prueba\obj\Debug\net8.0\ref\prueba.dll
