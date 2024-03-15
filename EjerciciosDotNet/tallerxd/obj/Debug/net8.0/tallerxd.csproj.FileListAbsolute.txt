@@ -1,0 +1,14 @@
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.GeneratedMSBuildEditorConfig.editorconfig
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.AssemblyInfoInputs.cache
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.AssemblyInfo.cs
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.csproj.CoreCompileInputs.cache
+C:\intentoejercicio\tallerxd\bin\Debug\net8.0\tallerxd.exe
+C:\intentoejercicio\tallerxd\bin\Debug\net8.0\tallerxd.deps.json
+C:\intentoejercicio\tallerxd\bin\Debug\net8.0\tallerxd.runtimeconfig.json
+C:\intentoejercicio\tallerxd\bin\Debug\net8.0\tallerxd.dll
+C:\intentoejercicio\tallerxd\bin\Debug\net8.0\tallerxd.pdb
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.dll
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\refint\tallerxd.dll
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.pdb
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\tallerxd.genruntimeconfig.cache
+C:\intentoejercicio\tallerxd\obj\Debug\net8.0\ref\tallerxd.dll
